@@ -77,7 +77,7 @@
                     pic: "images/drip.jpg",
                     alt: "A picture of Drip Coffee",
                     day: "Monday",
-                    desc: `The Drip is the greatest menu item ever!`
+                    desc: `Drip coffee is the greatest menu item ever`
         }
         break;
     
